@@ -8,6 +8,6 @@
 
 ***数据流向：***
 
-![avatar](rtmp_proxy.jpg)
+![avatar](rtmp_proxy_screenshot.jpg)
 
 > 基于 nareix 提供的joy5媒体库进行开发
