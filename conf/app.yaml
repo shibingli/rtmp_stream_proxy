@@ -1,0 +1,8 @@
+app:
+  app_name: rtmp_stream_proxy
+  log_level: debug  # debug/warn/error/info/fatal
+
+server:
+  ip: 0.0.0.0  # 本地绑定的IP地址
+  port: 1935 # 对外暴露的 RTMP 代理端口
+  handshake_timeout: 10  # 握手超时时间
